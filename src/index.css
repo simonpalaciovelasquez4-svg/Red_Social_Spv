@@ -1,0 +1,36 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f5f7f8;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+}
+
+button,
+a {
+  transition: all 0.2s ease;
+}
+
+.w3-container,
+.w3-row,
+.w3-col,
+.w3-card,
+.w3-button {
+  box-sizing: border-box;
+}
